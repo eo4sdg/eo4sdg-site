@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "fm.html",
+    "href": "fm.html",
+    "title": "Forest Mask",
+    "section": "",
+    "text": "Forest masks are a basic tool in remote sensing, meant for forest research, aiding in the assessment and monitoring of forested areas worldwide. They provide valuable data on forest cover from remote sensing imagery, aiding in understanding forest dynamics across spatial and temporal scales. These masks are binary classification maps distinguishing between forested and non-forested regions, created using image processing techniques and classification algorithms applied to remote sensing data like multi-spectral and hyper-spectral imagery. Initially based on spectral signatures, newer methods employ machine learning algorithms such as Random Forests, Support Vector Machines, and Convolutional Neural Networks for improved accuracy. Incorporating temporal dynamics is essential due to seasonal changes, achieved through time series analysis and multi-temporal satellite imagery. Forest masks find applications in carbon sequestration, habitat monitoring, and more. The integration of various data sources and advanced techniques enhances their accuracy and applicability in environmental research. As technology advances, refining forest mask methods will bolster global forest ecosystem monitoring and management, supporting sustainable development and conservation efforts.\ninsert figure here"
+  },
+  {
+    "objectID": "fm.html#solution",
+    "href": "fm.html#solution",
+    "title": "Forest Mask",
+    "section": "Solution",
+    "text": "Solution\nDifferentiation between forest stand area and non forest areas.\nMMU: 0.5 ha\nReporting: Area in ha"
+  },
+  {
+    "objectID": "fm.html#further-development",
+    "href": "fm.html#further-development",
+    "title": "Forest Mask",
+    "section": "Further Development",
+    "text": "Further Development"
+  },
+  {
+    "objectID": "fcm.html",
+    "href": "fcm.html",
+    "title": "Forest Condition Monitoring",
+    "section": "",
+    "text": "Sustainable forest management (SFM) aims to ensure that forests meet present and future needs and support community development. A key aspect of SFM is maintaining forest health and vitality, which involves monitoring forest conditions, including damage and disturbances. Effective forest condition monitoring requires long-term observation to understand past, current, and future forest dynamics. Forest ecosystems face increasing pressures from human activities and climate change, notably droughts, which make forests more susceptible to disease and pests. Traditional forest monitoring methods are often labour-intensive and costly, especially in remote areas.\nRemote sensing therefore has emerged as an effective tool for monitoring forest health over large areas efficiently and cost-effectively. Satellite remote sensing captures data across different wavelengths, providing information on vegetation health, biomass, and land cover changes. Factors influencing the effectiveness of remote sensing include the characteristics of forest features, sensor resolution, and the modelling techniques used.\nVegetation indices (VIs) are commonly used to monitor forest health. The Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI) are important indicators, with NDVI measuring the amount of green vegetation and EVI addressing some NDVI limitations. These indices, often combined with time-series data, help track forest health changes over time.\nMonitoring forest health is crucial for achieving Sustainable Development Goals (SDGs). Forests contribute to SDG 13 (climate action) by acting as carbon sinks, supporting climate change mitigation, and providing data for strategies. SDG 15 (Life on Land) is linked to forest health as forests support biodiversity and ecosystems. Monitoring also supports SDG 12 (Responsible Consumption and Production) by promoting sustainable forest use. Thus, forest health monitoring is essential for combating climate change, conserving biodiversity, and promoting sustainable forest management."
+  },
+  {
+    "objectID": "fcm.html#solution",
+    "href": "fcm.html#solution",
+    "title": "Forest Condition Monitoring",
+    "section": "Solution",
+    "text": "Solution\nProduct: Forest Condition Monitoring (FCM) - Vitality\nMMU of 0.5 ha\nReporting: change frequency, change area (statistics), maps of trends of vegetation indices\nAnalysis: NDVI change analysis between past and current conditions to track forest vitality and condition, establish average vegetation vitality benchmark (timeseries)"
+  },
+  {
+    "objectID": "fcm.html#further-development",
+    "href": "fcm.html#further-development",
+    "title": "Forest Condition Monitoring",
+    "section": "Further Development",
+    "text": "Further Development"
+  },
+  {
+    "objectID": "flm.html",
+    "href": "flm.html",
+    "title": "Forest Landscape Metrics",
+    "section": "",
+    "text": "Growing concerns over the loss of biodiversity have spurred land managers to seek better ways of managing landscapes at a variety of spatial and temporal scales. The developing field of landscape ecology has provided a strong conceptual and theoretical basis for understanding landscape structure, function, and change. Landscape ecology involves the study of landscape patterns, the interactions among patches within a landscape mosaic, and how these patterns and interactions change over time. In addition, landscape ecology involves applying these principles to formulate and solve real-world problems. Landscape ecology makes use of several methods, among which we find the use of landscape metrics. These are metrics that offer a numeric way of assessing all the processes stated above and are a great tool to understand and manage landscapes more sustainably.\n\n\n\nsource: Gkyer E (2013) Understanding Landscape Structure Using Landscape Metrics. Advances in Landscape Architecture. InTech. Available at: http://dx.doi.org/10.5772/55758.\n\n\n\nSolution\nThe proposed solution measures forest fragmentation/ landscape composition leveraging recent developments in landscape structure studies. Based on classification of forest types different metrics are calculated\n\narea and edge metrics\ncore area metrics\nshape metrics,\naggregation metrics\ndiversity metrics\ncomplexity metrics.\n\nThe user can define an area of interest and provide own forest classifications.\n\n\n\nMean patch area (aggregated values on the left, values per pixel on the right) for the Son La region in northern Vietnam\n\n\nSeveral metrics are available at all scales (patch, class, landscape). Although it is always an advantage to have all possible information on different levels, the interpretation of results should ideally always be done with some back-ground knowledge.\n\n\nFurther Development\n\nOutput maps, plots, and tables summarising the main findings.\nImportant accompanying information with results for easier interpretation by users."
+  },
+  {
+    "objectID": "fnc.html",
+    "href": "fnc.html",
+    "title": "Forest Net Change",
+    "section": "",
+    "text": "The forest area net change rate quantifies the overall change in forested land within a specific geographical region over time, typically expressed as a per-centage. It reflects the balance between processes like deforestation, afforesta-tion, reforestation, and natural disturbances. Deforestation involves perma-nently removing forests for activities like agriculture and urban development, causing ecological harm such as biodiversity loss and soil erosion. Reforesta-tion restores trees in deforested areas, aiding habitat recovery and carbon storage. Afforestation entails planting trees in non forested lands for at least 50 years, benefiting carbon sequestration and biodiversity. These efforts are vital for combating climate change and achieving Sustainable Development Goals like life on land, climate action, and sustainable cities. Continuous monitoring using forest area net change metrics informs environmental assessments and guides efforts to sustainably manage forest ecosystems amidst human activities and natural processes.\ninsert figure here\n\nSolution\n\nAssessment of forest change between two time steps: deforestation and afforestation\nRaster layer (.tif format) showing the rate of forest area change, based on updated forest masks in 3 classes (0 = no change, 1 = afforestation, 2 = de-forestation)\nMMU 0.5 ha\n\nInsert Image here\n\n\nFurther Development\n\nStatistics on total Forest Area Net Change Rate in ha"
+  },
+  {
+    "objectID": "fer.html",
+    "href": "fer.html",
+    "title": "Erosion Risk",
+    "section": "",
+    "text": "Soil erosion is a natural process defined as the accelerated removal of topsoil from the land surface mainly through water, wind and tillage. It occurs naturally under all climatic conditions and on all continents, but it is significantly increased and accelerated by unsustainable human activities through intensive agriculture, deforestation, overgrazing and improper land use changes. Soil erosion affects soil health and productivity by removing the highly fertile topsoil and exposing the remaining soil. It decreases agricultural productivity, degrades ecosystem functions, amplifies hydrogeological risk such as landslides or floods, causes significant losses in biodiversity, damage to urban infrastructure and, in severe cases, leads to displacement of human populations. It has implications for our environment and health including on water quality, the energy sector, urban infra-structure, and our landscapes.\nAmong the wide range of models developed to describe the soil erosion process, empirical models are a good compromise as they tend to be relatively simple, robust, less data demanding, and useable at a large or a global scale. This is why this product is based on the Revised Universal Soil Loss Equation (RUSLE), a well-known, universally accepted and implemented empirical soil erosion estimation model. It also has the benefit of a standardized approach (combining various input factors such as rainfall erosivity, soil erodibility, slope length and steepness, cover management) and allows calculating an average annual soil loss (in ton/ha/year).\ninsert figure here"
+  },
+  {
+    "objectID": "fer.html#solution",
+    "href": "fer.html#solution",
+    "title": "Erosion Risk",
+    "section": "Solution",
+    "text": "Solution\nProduct: Erosion Risk (FER/ER)\nMMU: 0.5 ha\nReporting: statistical analysis (used for visualization purposes through the dashboard)\nAnalysis: Soil erosion susceptibility assessment using the RUSLE model + soil erosion risk classification"
+  },
+  {
+    "objectID": "fer.html#further-development",
+    "href": "fer.html#further-development",
+    "title": "Erosion Risk",
+    "section": "Further Development",
+    "text": "Further Development\npossibility to use national DEM datasets"
+  },
+  {
+    "objectID": "disturbance.html",
+    "href": "disturbance.html",
+    "title": "Disturbance",
+    "section": "",
+    "text": "Disturbances are an integral part in forest ecosystems, influencing their stand, structure, and re-generation. Although there is no single definition for a dis-turbance that satisfies all scientific and societal questions, it can be described as a negative deviation from the long-term phenology and thus a decrease in vitality. Plants are regularly exposed to stress, as these site-bound organisms are dependent on a variety of environmental influences and stressors. Next to abiotic stressors such as air pollution, droughts, fires, floods and storms, biotic stressors like pathogens, insects and invasive species and anthropogenic caus-es such as pollution and deforestation place strain on the vegetation and can cause a decrease of vitality. In most cases, stressors do not act individually, but several at the same time, whereby the interactions can be synergic, antagonistic, or overlapping.\nLarge-scale condition monitoring is particularly important to understand changes in the condition of forest ecosystems. To detect vitality disturbances with remote sensing sensors, the stress symptoms must result in a sufficiently large change in reflection for a sensor to measure them. Moreover, the spec-tral, spatial, and temporal characteristics of the disturbance and the object of interest (from single tree level up to forest level) highly influence the detecta-bility of vitality disturbances."
+  },
+  {
+    "objectID": "disturbance.html#solution",
+    "href": "disturbance.html#solution",
+    "title": "Disturbance",
+    "section": "Solution",
+    "text": "Solution\nThe method selected in this analysis is Sustained Change, a common break-point or change detection algorithm available in open-source software."
+  },
+  {
+    "objectID": "disturbance.html#further-development",
+    "href": "disturbance.html#further-development",
+    "title": "Disturbance",
+    "section": "Further Development",
+    "text": "Further Development"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EO4SDG",
+    "section": "",
+    "text": "The 2030 Agenda on Sustainable Development [RD-1] ratified by the UN General Assembly at the Sustainable Development Summit in New York on the 25th September 2015, is a transformative universal agenda on sustainable development that promotes shared economic prosperity, social development and environmental protection. In total 17 Sustainable Development Goals (SDGs) and 169 Targets [URL-4] have been adopted by the world leaders and are driving the agenda on sustainable development for the United Nations and all its Member States, until 2030 and beyond.\nThe Sustainable Development Goals are meant to assist countries to manage and monitor progress on the three key interconnected components of sustainable development: economic growth, social inclusion and environmental sustainability, with the basic principle that no one must be left behind. The aim is to integrate the principles of sustainable development into national policies and processes. While being universal and applicable to all countries, the SDGs recognise the existence of different realities and capabilities amongst nations. Each government are therefore requested to define their own targets guided by the global level of ambition but taking into account their national specificities. This implies that the SDGs, while being defined at the highest UN level, are implemented by the countries according to their own realities.\nThe UN has established a range of processes for achieving the Sustainable Development Goals and monitoring progress towards the Targets, with a particular focus to supporting the least developed economies and leaving no one behind. To efficiently support all its member countries, the UN has organised a multi-layer governance system that involves a large range of stakeholders with different levels of responsibilities in the realisation of the 2030 Agenda [Figure 1].\nA robust monitoring mechanism for the implementation of the SDGs requires a solid framework of indicators, and consequently reliable statistical data, to measure, monitor and report progress, inform policies and ensure accountability of all stakeholders. It is the UN Statistical Commission (UNSC) [URL-7], the highest authority of the UN statistical system and a functional commission of the UN Economic and Social Council (ECOSOC), who has the mandate to overlook the implementation of the Global Indicator Framework for the SDGs [URL-8], which comprises a set of 231 SDG Indicators that collectively provide a management tool for countries to implement development strategies and report on progress toward the SDG Targets. The SDG Global Indicator Framework is managed by the Inter-Agency and Expert Group on SDG Indicators (IAEG-SDGs) [URL-9] made of representatives from National Statistical Offices (NSOs).\nDeveloping such a complex indicator framework requires the coordination and the involvement of all international, regional and national authorities dealing with social, economic and environmental programmes. At global level, the UN Specialised Agencies, Programmes and Convention secretariats (e.g., FAO, WHO, UN-Habitat, UNEP, UNDP, UNCCD, CBD, UNFCCC, etc.) play a crucial coordinating role as custodians of the SDG Indicators, with the mandate to compile monitoring guidelines for measuring and reporting on the indicators, support countries on their implementation and strengthen statistical capacities, and collect national data for the global reporting mechanism. At country level, the SDG implementation is coordinated by the National Statistical Offices (NSOs) with the involvement of all relevant line ministries and supporting agencies for the SDG targets and indicators they are responsible for."
+  },
+  {
+    "objectID": "about.html#rss",
+    "href": "about.html#rss",
+    "title": "Consortium",
+    "section": "RSS",
+    "text": "RSS"
+  },
+  {
+    "objectID": "about.html#sertit",
+    "href": "about.html#sertit",
+    "title": "Consortium",
+    "section": "Sertit",
+    "text": "Sertit"
+  },
+  {
+    "objectID": "about.html#vtt",
+    "href": "about.html#vtt",
+    "title": "Consortium",
+    "section": "VTT",
+    "text": "VTT"
+  }
+]
