@@ -1,0 +1,12 @@
+---
+title: "Above-Ground Biomass"
+editor: visual
+---
+
+![](visuals/agb1.png)
+
+![](visuals/agb2.png)
+
+------------------------------------------------------------------------
+
+![](visuals/banner.png)

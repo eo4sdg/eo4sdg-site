@@ -1,0 +1,18 @@
+---
+title: "Disturbance"
+editor: visual
+---
+
+Disturbances are an integral part in forest ecosystems, influencing their stand, structure, and re-generation. Although there is no single definition for a dis-turbance that satisfies all scientific and societal questions, it can be described as a negative deviation from the long-term phenology and thus a decrease in vitality. Plants are regularly exposed to stress, as these site-bound organisms are dependent on a variety of environmental influences and stressors. Next to abiotic stressors such as air pollution, droughts, fires, floods and storms, biotic stressors like pathogens, insects and invasive species and anthropogenic caus-es such as pollution and deforestation place strain on the vegetation and can cause a decrease of vitality. In most cases, stressors do not act individually, but several at the same time, whereby the interactions can be synergic, antagonistic, or overlapping.
+
+Large-scale condition monitoring is particularly important to understand changes in the condition of forest ecosystems. To detect vitality disturbances with remote sensing sensors, the stress symptoms must result in a sufficiently large change in reflection for a sensor to measure them. Moreover, the spec-tral, spatial, and temporal characteristics of the disturbance and the object of interest (from single tree level up to forest level) highly influence the detecta-bility of vitality disturbances.
+
+## Solution
+
+The method selected in this analysis is Sustained Change, a common break-point or change detection algorithm available in open-source software.
+
+## Further Development
+
+------------------------------------------------------------------------
+
+![](visuals/logos.png)

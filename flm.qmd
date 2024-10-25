@@ -1,0 +1,40 @@
+---
+title: "Forest Landscape Metrics"
+editor: visual
+---
+
+Growing concerns over the loss of biodiversity have spurred land managers to seek better ways of managing landscapes at a variety of spatial and temporal scales. The developing field of landscape ecology has provided a strong conceptual and theoretical basis for understanding landscape structure, function, and change. Landscape ecology involves the study of landscape patterns, the interactions among patches within a landscape mosaic, and how these patterns and interactions change over time. In addition, landscape ecology involves applying these principles to formulate and solve real-world problems. Landscape ecology makes use of several methods, among which we find the use of landscape metrics. These are metrics that offer a numeric way of assessing all the processes stated above and are a great tool to understand and manage landscapes more sustainably.
+
+![source: Gkyer E (2013) Understanding Landscape Structure Using Landscape Metrics. Advances in Landscape Architecture. InTech. Available at: http://dx.doi.org/10.5772/55758.](visuals/flm1.png){width="462"}
+
+### Solution
+
+The proposed solution measures forest fragmentation/ landscape composition leveraging recent developments in landscape structure studies. Based on classification of forest types different metrics are calculated
+
+-   area and edge metrics
+
+-   core area metrics
+
+-   shape metrics,
+
+-   aggregation metrics
+
+-   diversity metrics
+
+-   complexity metrics.
+
+The user can define an area of interest and provide own forest classifications.
+
+![Mean patch area (aggregated values on the left, values per pixel on the right) for the Son La region in northern Vietnam](visuals/flm2.png)
+
+Several metrics are available at all scales (patch, class, landscape). Although it is always an advantage to have all possible information on different levels, the interpretation of results should ideally always be done with some back-ground knowledge.
+
+### Further Development
+
+-   Output maps, plots, and tables summarising the main findings.
+
+-   Important accompanying information with results for easier interpretation by users.
+
+------------------------------------------------------------------------
+
+![](visuals/logos.png)

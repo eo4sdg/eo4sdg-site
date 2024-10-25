@@ -93,6 +93,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./background.html"> 
+<span class="menu-text">Background</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./flm.html"> 
 <span class="menu-text">Landscape Metrics</span></a>
   </li>  
@@ -117,8 +121,34 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Erosion Risk</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./agb.html"> 
+<span class="menu-text">Above-Ground Biomass</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Consortium</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/eo4sdg"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://youtube.com/@eo4sdg-forest-z3c"> <i class="bi bi-youtube" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://zenodo."> <i class="bi bi-database" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://linkedin.com/company/eo4sdg-forest"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -140,9 +170,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#further-development" id="toc-further-development" class="nav-link" data-scroll-target="#further-development">Further Development</a></li>
   </ul>
 </nav>
-    <div class="quarto-margin-footer"><div class="margin-footer-item">
-<p>This project was funded by ESA Contract No: 4000139583/22/I-DT</p>
-</div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -167,19 +195,30 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Soil erosion is a natural process defined as the accelerated removal of topsoil from the land surface mainly through water, wind and tillage. It occurs naturally under all climatic conditions and on all continents, but it is significantly increased and accelerated by unsustainable human activities through intensive agriculture, deforestation, overgrazing and improper land use changes. Soil erosion affects soil health and productivity by removing the highly fertile topsoil and exposing the remaining soil. It decreases agricultural productivity, degrades ecosystem functions, amplifies hydrogeological risk such as landslides or floods, causes significant losses in biodiversity, damage to urban infrastructure and, in severe cases, leads to displacement of human populations. It has implications for our environment and health including on water quality, the energy sector, urban infra-structure, and our landscapes.</p>
 <p>Among the wide range of models developed to describe the soil erosion process, empirical models are a good compromise as they tend to be relatively simple, robust, less data demanding, and useable at a large or a global scale. This is why this product is based on the Revised Universal Soil Loss Equation (RUSLE), a well-known, universally accepted and implemented empirical soil erosion estimation model. It also has the benefit of a standardized approach (combining various input factors such as rainfall erosivity, soil erodibility, slope length and steepness, cover management) and allows calculating an average annual soil loss (in ton/ha/year).</p>
-<p><em>insert figure here</em></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visuals/fer2.png" class="img-fluid figure-img"></p>
+<figcaption>Soil erosion risk classification over Vietnam</figcaption>
+</figure>
+</div>
 <section id="solution" class="level2">
 <h2 class="anchored" data-anchor-id="solution">Solution</h2>
 <p>Product: Erosion Risk (FER/ER)</p>
 <p>MMU: 0.5 ha</p>
 <p>Reporting: statistical analysis (used for visualization purposes through the dashboard)</p>
 <p>Analysis: Soil erosion susceptibility assessment using the RUSLE model + soil erosion risk classification</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visuals/fer3.png" class="img-fluid figure-img"></p>
+<figcaption>Soil erosion risk and landslide risk for a province in Vietnam</figcaption>
+</figure>
+</div>
 </section>
 <section id="further-development" class="level2">
 <h2 class="anchored" data-anchor-id="further-development">Further Development</h2>
 <p>possibility to use national DEM datasets</p>
 <hr>
-<p><img src="visuals/logos.png" class="img-fluid"></p>
+<p><img src="visuals/banner.png" class="img-fluid"></p>
 
 
 </section>

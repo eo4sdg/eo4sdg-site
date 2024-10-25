@@ -1,0 +1,28 @@
+---
+title: "Forest Condition Monitoring"
+editor: visual
+---
+
+Sustainable forest management (SFM) aims to ensure that forests meet present and future needs and support community development. A key aspect of SFM is maintaining forest health and vitality, which involves monitoring forest conditions, including damage and disturbances. Effective forest condition monitoring requires long-term observation to understand past, current, and future forest dynamics. Forest ecosystems face increasing pressures from human activities and climate change, notably droughts, which make forests more susceptible to disease and pests. Traditional forest monitoring methods are often labour-intensive and costly, especially in remote areas.
+
+Remote sensing therefore has emerged as an effective tool for monitoring forest health over large areas efficiently and cost-effectively. Satellite remote sensing captures data across different wavelengths, providing information on vegetation health, biomass, and land cover changes. Factors influencing the effectiveness of remote sensing include the characteristics of forest features, sensor resolution, and the modelling techniques used.
+
+Vegetation indices (VIs) are commonly used to monitor forest health. The Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI) are important indicators, with NDVI measuring the amount of green vegetation and EVI addressing some NDVI limitations. These indices, often combined with time-series data, help track forest health changes over time.
+
+Monitoring forest health is crucial for achieving Sustainable Development Goals (SDGs). Forests contribute to SDG 13 (climate action) by acting as carbon sinks, supporting climate change mitigation, and providing data for strategies. SDG 15 (Life on Land) is linked to forest health as forests support biodiversity and ecosystems. Monitoring also supports SDG 12 (Responsible Consumption and Production) by promoting sustainable forest use. Thus, forest health monitoring is essential for combating climate change, conserving biodiversity, and promoting sustainable forest management.
+
+## Solution
+
+Product: Forest Condition Monitoring (FCM) - Vitality
+
+MMU of 0.5 ha
+
+Reporting: change frequency, change area (statistics), maps of trends of vegetation indices
+
+Analysis: NDVI change analysis between past and current conditions to track forest vitality and condition, establish average vegetation vitality benchmark (timeseries)
+
+## Further Development
+
+------------------------------------------------------------------------
+
+![](visuals/logos.png)

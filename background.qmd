@@ -1,0 +1,39 @@
+---
+title: "EO4SDG"
+---
+
+![](visuals/eo4sdg-logo.jpg){fig-align="center"}
+
+The **EO4SDG (Earth Observations for the Sustainable Development Goals)** project is an initiative aimed at promoting the use of Earth observation (EO) data and geospatial information to support the achievement and monitoring of the **United Nations' Sustainable Development Goals (SDGs)**. The project is led by the **Group on Earth Observations (GEO)**, a global organization that coordinates EO data and resources from countries, organizations, and institutions.
+
+### Key Objectives of EO4SDG
+
+1.  **Mainstreaming EO into SDG monitoring and implementation:** The project works to integrate Earth observation data into the processes used by countries to measure, track, and achieve the SDGs. EO data can provide insights into various environmental, social, and economic indicators relevant to the SDGs.
+
+2.  **Capacity building and knowledge sharing:** EO4SDG focuses on building the capacity of countries and stakeholders to use EO data effectively in their SDG reporting and implementation efforts. This includes training, workshops, and partnerships to enhance technical knowledge and data accessibility.
+
+3.  **Supporting decision-making through EO data:** The project aims to leverage satellite imagery and remote sensing data to improve evidence-based decision-making. This is especially relevant in areas such as environmental management, urban planning, disaster risk reduction, and sustainable resource management, all of which are linked to various SDGs.
+
+4.  **Demonstrating the value of EO for SDG indicators:** EO4SDG highlights the practical applications of EO data for tracking specific SDG indicators, such as those related to climate action (SDG 13), life on land (SDG 15), clean water and sanitation (SDG 6), and sustainable cities and communities (SDG 11).
+
+### Areas of Application
+
+EO data has been used in a variety of ways to support the SDGs, including: - **Tracking deforestation and land degradation** (SDG 15) - **Monitoring water quality and availability** (SDG 6) - **Assessing urban expansion and its sustainability** (SDG 11) - **Analyzing climate impacts and vulnerabilities** (SDG 13)
+
+The project collaborates with national statistical offices, UN agencies, and other international organizations to enhance the use of EO data for SDG-related indicators and to ensure the alignment of EO tools with the SDG reporting framework.
+
+### UN Agenda 2030
+
+The 2030 Agenda on Sustainable Development ratified by the UN General Assembly at the Sustainable Development Summit in New York on the 25th September 2015, is a transformative universal agenda on sustainable development that promotes shared economic prosperity, social development and environmental protection. In total 17 Sustainable Development Goals (SDGs) and 169 Targets have been adopted by the world leaders and are driving the agenda on sustainable development for the United Nations and all its Member States, until 2030 and beyond.
+
+The Sustainable Development Goals are meant to assist countries to manage and monitor progress on the three key interconnected components of sustainable development: economic growth, social inclusion and environmental sustainability, with the basic principle that no one must be left behind. The aim is to integrate the principles of sustainable development into national policies and processes. While being universal and applicable to all countries, the SDGs recognise the existence of different realities and capabilities amongst nations. Each government are therefore requested to define their own targets guided by the global level of ambition but taking into account their national specificities. This implies that the SDGs, while being defined at the highest UN level, are implemented by the countries according to their own realities.
+
+The UN has established a range of processes for achieving the Sustainable Development Goals and monitoring progress towards the Targets, with a particular focus to supporting the least developed economies and leaving no one behind. To efficiently support all its member countries, the UN has organised a multi-layer governance system that involves a large range of stakeholders with different levels of responsibilities in the realisation of the 2030 Agenda .
+
+A robust monitoring mechanism for the implementation of the SDGs requires a solid framework of indicators, and consequently reliable statistical data, to measure, monitor and report progress, inform policies and ensure accountability of all stakeholders. It is the UN Statistical Commission (UNSC) , the highest authority of the UN statistical system and a functional commission of the UN Economic and Social Council (ECOSOC), who has the mandate to overlook the implementation of the Global Indicator Framework for the SDGs, which comprises a set of 231 SDG Indicators that collectively provide a management tool for countries to implement development strategies and report on progress toward the SDG Targets. The SDG Global Indicator Framework is managed by the Inter-Agency and Expert Group on SDG Indicators (IAEG-SDGs) made of representatives from National Statistical Offices (NSOs).
+
+Developing such a complex indicator framework requires the coordination and the involvement of all international, regional and national authorities dealing with social, economic and environmental programmes. At global level, the UN Specialised Agencies, Programmes and Convention secretariats (e.g., FAO, WHO, UN-Habitat, UNEP, UNDP, UNCCD, CBD, UNFCCC, etc.) play a crucial coordinating role as custodians of the SDG Indicators, with the mandate to compile monitoring guidelines for measuring and reporting on the indicators, support countries on their implementation and strengthen statistical capacities, and collect national data for the global reporting mechanism. At country level, the SDG implementation is coordinated by the National Statistical Offices (NSOs) with the involvement of all relevant line ministries and supporting agencies for the SDG targets and indicators they are responsible for.
+
+------------------------------------------------------------------------
+
+![](visuals/logos.png)

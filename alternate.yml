@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: EO4SDG
+  navbar:
+    background: light
+    logo: visuals/eo4sdg-logo.jpg
+    logo-alt: "EO4SDG logo."
+    title: false
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - sidebar:tutorials
+      - sidebar:howto
+      - sidebar:fundamentals
+      - sidebar:reference
+
+  sidebar:
+    - id: tutorials
+      title: "Tutorials"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+        # navigation items
+
+    - id: howto
+      title: "How-To"
+      contents:
+        # navigation items
+
+    - id: fundamentals
+      title: "Fundamentals"
+      contents: :
+        # navigation items
+
+    - id: reference
+      title: "Reference"
+      contents:
+        # navigation items

@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EO4SDG"
+  navbar:
+    background: light
+    logo: visuals/eo4sdg-logo.jpg
+    logo-alt: "EO4SDG logo."
+    title: false
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+
+      - text: Background
+        href: background.qmd
+
+      - text: Landscape Metrics
+        href: flm.qmd
+
+      - text: Forest Mask
+        href: fm.qmd
+
+      - text: Forest Condition
+        href: fcm.qmd
+
+      - text: Forest Net Change
+        href: fnc.qmd
+
+      - text: Disturbance
+        href: disturbance.qmd
+
+      - text: Erosion Risk
+        href: fer.qmd
+
+      - text: Above-Ground Biomass
+        href: agb.qmd
+
+      - text: Consortium
+        href: about.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/eo4sdg
+      - icon: youtube
+        href: https://youtube.com/@eo4sdg-forest-z3c
+      - icon: database
+        href: https://zenodo.
+      - icon: linkedin
+        href: https://linkedin.com/company/eo4sdg-forest
+
+  page-footer: "This project was funded by ESA Contract No: 4000139583/22/I-DT"
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+
+editor: visual
+

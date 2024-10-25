@@ -1,0 +1,51 @@
+---
+title: "EO4SDG Forest"
+---
+
+![](visuals/eo4sdg-logo.jpg){fig-align="center"}
+
+**UN Sustainable Development Goals** are meant to assist countries to manage and monitor progress on the three key interconnected components of sustainable development: economic growth, social inclusion and environmental sustainability, with the basic principle that **no one must be left behind**. The UN has established a range of processes for achieving the Sustainable Development Goals and **monitoring progress** towards the Targets, with a particular focus to supporting the least developed economies. One of the key processes is a **robust monitoring mechanism** for the implementation of the SDGs including a s**olid framework of indicators**, and consequently reliable statistical data, to measure, monitor and report progress, inform policies and ensure accountability of all stakeholders.
+
+### Tracking UN Sustainable Development Goals 
+
+The UN recognises that a **robust and high-quality indicator framework** for the SDGs requires a process that evolves with the emergence of new technology or new data, or when new indicators are needed to better track progress on the Targets. Geospatial Information and Earth Observation, together with the latest advances in big data analytics, offer **unprecedented opportunities to modernise the national statistical systems** and consequently make a quantum leap in the capacities of countries to efficiently track all facets of sustainable development.
+
+### Earth Observation 
+
+**Earth Observation satellites**, with their global coverage and high frequency of observations, prove essential in capturing important aspects of sustainable development and in particular the environmental dimension of the SDGs. An effective integration within national statistical systems can **significantly reduce the monitoring costs** and consequently enable countries **to meet their engagement to monitor and report progress on their SDG Targets**.
+
+The European Space Agency (ESA) is engaged on SDGs mainly through its participation to the GEO Work Programme activities on SDGs. For more than a decade, the European Space Agency has also partnered with major **International Financial Institutions (IFIs)**, such as the World Bank Group (WBG) and the Asian Development Bank (ADB), which have the institutional mandate to provide and catalyse investments fostering sustainable development. 
+
+The FutureEO-1 “**EO for Sustainable Development Goals”** line of activities of ESA consists of a series of R&D projects that aim at facilitating the uptake of EO solutions into national SDG monitoring frameworks. In partnership with the Food and Agriculture Organization (FAO), the custodian agency of SDG indicator 15.2.1, the ESA has funded the **EO for Sustainable Forest Management** project to develop and showcase innovative EO approaches for the production of indicators on the sustainable management of natural, semi-natural and planted forests, addressing the changes in forest extent and conditions for use in national and global forest assessment. 
+
+## Project Overview
+
+### User Centric Approach
+
+One of the principal characteristics of ESA’s new programmatic line on sustainable development is its **user-driven approach**. The projects funded under these lines will **develop high quality and innovative EO data products**, methods and tools that **respond to priority needs from SDG stakeholders**.
+
+IABG has partnered with several leading EO companies to develop new innovative methods to track the progress of countries towards sustainable forest development. 
+
+The project will have **SDG user-centred design** that put countries at the centre of the EO solution, and in which a number of committed organisations are actively involved in the design and development of the solution. The “**SDG Early Adopters**” are user organisations which have a direct interest in the novel EO solution developed by the project, which foresee a clearly defined use of the output EO products/solution in their SDG operational practices, and which are willing to participate to the design and development of the EO solution with committed resources (provided in-kind or paid by the project) and to support the research and innovation activities of the project.
+
+This **user-driven approach** will be articulated around **two-way collaborations between the project teams and committed user organisations** that are representative of the SDG community and interested in developing and testing innovative EO solutions in relation to their institutional mandate on SDGs 
+
+The SDG Early Adopters will:
+
+-   participate actively to the project as an Early Adopters of the novel EO solution, 
+
+-   actively be involved in the co-creation of the EO solution through an agile development process that includes the participation in a series of **SDG Living Labs**
+
+-   contribute to the refinement and consolidation of the user requirements during the User Co-creation phase (i.e., phase 1 of the project), 
+
+-   participate to the co-design of the EO solution following a user participatory approach, 
+
+-   support the definition and elaboration of the Use Cases, 
+
+-   facilitate access to existing user data (e.g., national data) that can support the development, production, validation, and quality assessment of the EO data products, and the implementation of the Use Cases, 
+
+-   contribute to the validation and quality assessment of the EO data products, both on the test sites during the User Co-creation Phase (phase 1 of the project), and on the pilot sites during the User Uptake Phase (phase 2 of the project), 
+
+### Metrics
+
+![](visuals/20222310_EO4SDGforest_FlyerEarlyAdoper_v05.png)
