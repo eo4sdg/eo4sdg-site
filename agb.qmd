@@ -7,6 +7,12 @@ editor: visual
 
 ![](visuals/agb2.png)
 
+Use Cases
+
+-   Carbon stock assessments
+
+-   Carbon and biodiversity reporting for global initiatives like REDD+ to monitor forest degradation and calculate emissions from land-use changes
+
 ------------------------------------------------------------------------
 
 ![](visuals/banner.png)

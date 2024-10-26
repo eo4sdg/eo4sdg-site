@@ -3,9 +3,9 @@ title: "Forest Net Change"
 editor: visual
 ---
 
-The forest area net change rate quantifies the overall change in forested land within a specific geographical region over time, typically expressed as a per-centage. It reflects the balance between processes like deforestation, afforesta-tion, reforestation, and natural disturbances. Deforestation involves perma-nently removing forests for activities like agriculture and urban development, causing ecological harm such as biodiversity loss and soil erosion. Reforesta-tion restores trees in deforested areas, aiding habitat recovery and carbon storage. Afforestation entails planting trees in non forested lands for at least 50 years, benefiting carbon sequestration and biodiversity. These efforts are vital for combating climate change and achieving Sustainable Development Goals like life on land, climate action, and sustainable cities. Continuous monitoring using forest area net change metrics informs environmental assessments and guides efforts to sustainably manage forest ecosystems amidst human activities and natural processes.
+The forest area net change rate quantifies the overall change in forested land within a specific geographical region over time, typically expressed as a percentage. It reflects the balance between processes like deforestation, afforestation, reforestation, and natural disturbances. Deforestation involves permanently removing forests for activities like agriculture and urban development, causing ecological harm such as biodiversity loss and soil erosion. Reforestation restores trees in deforested areas, aiding habitat recovery and carbon storage. Afforestation entails planting trees in non forested lands for at least 50 years, benefiting carbon sequestration and biodiversity. These efforts are vital for combating climate change and achieving Sustainable Development Goals like life on land, climate action, and sustainable cities. Continuous monitoring using forest area net change metrics informs environmental assessments and guides efforts to sustainably manage forest ecosystems amidst human activities and natural processes.
 
-*insert figure here*
+![](visuals/fnc.png)
 
 ### Solution
 
