@@ -41,6 +41,9 @@ website:
       - text: Consortium
         href: about.qmd
 
+      - text: Deliverables
+        href: deliverables.qmd
+
     right:
       - icon: github
         href: https://github.com/eo4sdg
